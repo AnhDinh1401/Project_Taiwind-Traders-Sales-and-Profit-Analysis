@@ -41,7 +41,7 @@ Secondly, I created line chart to illustrate **Total Revenue** overtime by selec
 Besides, to know how well the sales in each country, I created a **Loyalty Points** column chart and **Total Revenue by Country** pie chart:<br>
 ![image](https://github.com/user-attachments/assets/1e412335-9dc4-47e9-81ed-acd0763c0755) 
 ![image](https://github.com/user-attachments/assets/0f289951-e466-4c26-91ef-48d96f53d9c8) 
-Lastly, I add a bar chart to the report to know **Product Category** sales status:<br>
+Lastly, I add a bar chart to the report to know **Units sold by Product Category**<br>
 ![image](https://github.com/user-attachments/assets/8395069c-5299-496b-aeb7-38a2b8cd1593)
 Moreover, I add a slicer to filter the report by **order** status. After all, I resize these visualizations depending on it's importance and rearrange their layout properly. And here is the final results. <br>
 ![image](https://github.com/user-attachments/assets/4bb3a2ca-356f-4c88-aae7-c7cfb04a6031) 
