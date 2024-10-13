@@ -1,4 +1,4 @@
-
+## Please click on "Bài thuyết trình Tailwind Trader Project.pdf" to see more details and insights from charts and reports that I created!
 ## Introduction
 ### At this project, you helped Tailwind Traders to:
 Prepare its sales data and configure its data sources.<br>
@@ -31,7 +31,7 @@ Here is the final Model and relationships between these tables:
 ![image](https://github.com/user-attachments/assets/92e0c3ac-3903-4f01-bdde-c5152cf854f9)
  
 ### 3. Create reports
-# Please Download "Bài thuyết trình Tailwind Trader Project.pdf" to see more details and insights from charts and reports that I created
+### Please click on "Bài thuyết trình Tailwind Trader Project.pdf" to see more details and insights from charts and reports that I created!
 
 
 
