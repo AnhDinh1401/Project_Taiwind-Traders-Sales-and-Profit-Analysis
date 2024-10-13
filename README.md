@@ -1,3 +1,4 @@
+
 ## Introduction
 ### At this project, you helped Tailwind Traders to:
 Prepare its sales data and configure its data sources.<br>
@@ -29,28 +30,8 @@ Secondly, to make **Time intelligence** caculations, I configured the **Calendar
 Here is the final Model and relationships between these tables:
 ![image](https://github.com/user-attachments/assets/92e0c3ac-3903-4f01-bdde-c5152cf854f9)
  
-### 3. Using DAX to create caculated columns, measures and then creating report
-#### 3.1 Creating sales report
-Firstly, I created 3 card visualizations to show overall **sales status** of **Taiwind Trader** including **Total Revenue in USD**, **Units Sold** and **Average Rating**:
-- **Total Revenue in USD** not available so I used DAX to create measure that caculates it by taking **Total Revenue** field multiple **Exchange Rate** field.<br>
-![image](https://github.com/user-attachments/assets/831f8f4d-62b9-4b5b-bee1-c77ea19174b1)
-
-Secondly, I created line chart to illustrate **Total Revenue** overtime by selecting **Visualization Pane** and drag **Purchase Date** to **X-axis** and **Total Revenue in USD** to **Y-axis**.
-![image](https://github.com/user-attachments/assets/ca92d150-f8b3-4ee4-b47e-1d943ebb0579)
-<br>
-Besides, to know how well the sales in each country, I created a **Loyalty Points** column chart and **Total Revenue by Country** pie chart:<br>
-![image](https://github.com/user-attachments/assets/1e412335-9dc4-47e9-81ed-acd0763c0755) 
-![image](https://github.com/user-attachments/assets/0f289951-e466-4c26-91ef-48d96f53d9c8) 
-Lastly, I add a bar chart to the report to know **Units sold by Product Category**<br>
-![image](https://github.com/user-attachments/assets/8395069c-5299-496b-aeb7-38a2b8cd1593)
-Moreover, I add a slicer to filter the report by **order** status. After all, I resize these visualizations depending on it's importance and rearrange their layout properly. And here is the final results. <br>
-![image](https://github.com/user-attachments/assets/4bb3a2ca-356f-4c88-aae7-c7cfb04a6031) 
-
-#### 3.2 Creating profit report
-To see this more detail, you could download my **Capstone project final**.<br>
-![image](https://github.com/user-attachments/assets/f0529c54-0bc9-47a9-a7dc-84e1cc01f9ab)
-
-
+### 3. Create reports
+# Please Download "Bài thuyết trình Tailwind Trader Project.pdf" to see more details and insights from charts and reports that I created
 
 
 
